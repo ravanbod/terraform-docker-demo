@@ -1,6 +1,6 @@
 # Terraform-Docker-Demo
 
-This is just a exercise for DWS class.
+This is just a exercise for the DWS class.
 This terraform project creates a MYSQL container (docker).
 
 # How to use
